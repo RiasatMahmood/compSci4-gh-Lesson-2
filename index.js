@@ -1,2 +1,6 @@
-console.log("helllo worl")
-console.log ("this is my message")
+const printFruit = () =>{
+    console.log ("i like apples");
+    console.log("i dont line pears");
+}
+
+printFruit();
